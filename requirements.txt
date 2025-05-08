@@ -1,0 +1,6 @@
+langchain_core==0.3.59
+langchain_openai==0.3.16
+langgraph==0.4.3
+python-dotenv==1.1.0
+streamlit==1.45.0
+tavily_python==0.7.2
